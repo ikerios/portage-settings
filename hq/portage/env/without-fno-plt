@@ -1,0 +1,1 @@
+CFLAGS="-march=skylake -O2 -pipe"

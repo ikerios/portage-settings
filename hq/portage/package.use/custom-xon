@@ -1,0 +1,6 @@
+sys-devel/gcc pgo
+www-client/firefox pgo
+x11-drivers/nvidia-drivers dist-kernel tools
+app-emulation/qemu usbredir spice gtk ncurses sdl
+net-print/hplip scanner
+virtual/wine staging
